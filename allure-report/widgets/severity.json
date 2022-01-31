@@ -1,0 +1,71 @@
+[ {
+  "uid" : "ae83b81b43fb86f0",
+  "name" : "Get all customers",
+  "time" : {
+    "start" : 1643649733434,
+    "stop" : 1643649734962,
+    "duration" : 1528
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "797046419753daeb",
+  "name" : "Update Customer",
+  "time" : {
+    "start" : 1643649738668,
+    "stop" : 1643649740037,
+    "duration" : 1369
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0d3676357a62619",
+  "name" : "Delete Customer",
+  "time" : {
+    "start" : 1643649740042,
+    "stop" : 1643649741454,
+    "duration" : 1412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e97e67bbfcc8b1c0",
+  "name" : "Search Customer",
+  "time" : {
+    "start" : 1643649734972,
+    "stop" : 1643649736423,
+    "duration" : 1451
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "562bcb7b6348f3e8",
+  "name" : "Create Customer",
+  "time" : {
+    "start" : 1643649737302,
+    "stop" : 1643649738663,
+    "duration" : 1361
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c122440710b09c",
+  "name" : "Generate Random Customer",
+  "time" : {
+    "start" : 1643649736428,
+    "stop" : 1643649737297,
+    "duration" : 869
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f251c45b24b8e7af",
+  "name" : "Log In",
+  "time" : {
+    "start" : 1643649726649,
+    "stop" : 1643649733334,
+    "duration" : 6685
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

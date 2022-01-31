@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jan 31 23:22:17 BDT 2022","Mon Jan 31 23:22:18 BDT 2022","1361","REST Assured TestNG","REST Assured TestNG","TestRunner","TestRunner","createCustomer","Create Customer",""
+"passed","Mon Jan 31 23:22:14 BDT 2022","Mon Jan 31 23:22:16 BDT 2022","1451","REST Assured TestNG","REST Assured TestNG","TestRunner","TestRunner","searchCustomer","Search Customer",""
+"passed","Mon Jan 31 23:22:18 BDT 2022","Mon Jan 31 23:22:20 BDT 2022","1369","REST Assured TestNG","REST Assured TestNG","TestRunner","TestRunner","updateCustomer","Update Customer",""
+"passed","Mon Jan 31 23:22:13 BDT 2022","Mon Jan 31 23:22:14 BDT 2022","1528","REST Assured TestNG","REST Assured TestNG","TestRunner","TestRunner","getCustomerList","Get all customers",""
+"passed","Mon Jan 31 23:22:06 BDT 2022","Mon Jan 31 23:22:13 BDT 2022","6685","REST Assured TestNG","REST Assured TestNG","TestRunner","TestRunner","doLogin","Log In",""
+"passed","Mon Jan 31 23:22:20 BDT 2022","Mon Jan 31 23:22:21 BDT 2022","1412","REST Assured TestNG","REST Assured TestNG","TestRunner","TestRunner","deleteCustomer","Delete Customer",""
+"passed","Mon Jan 31 23:22:16 BDT 2022","Mon Jan 31 23:22:17 BDT 2022","869","REST Assured TestNG","REST Assured TestNG","TestRunner","TestRunner","generateCustomerInfo","Generate Random Customer",""

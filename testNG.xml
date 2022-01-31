@@ -1,0 +1,7 @@
+<suite thread-count="1" verbose="1" name="REST Assured TestNG">
+    <test name="REST Assured TestNG">
+        <classes>
+            <class name="TestRunner"/>
+        </classes>
+    </test>
+</suite>

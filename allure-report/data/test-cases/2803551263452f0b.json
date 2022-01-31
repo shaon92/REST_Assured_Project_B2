@@ -1,0 +1,64 @@
+{
+  "uid" : "2803551263452f0b",
+  "name" : "Log In",
+  "fullName" : "TestRunner.doLogin",
+  "historyId" : "c8edf4e5fb78cce3a1f41cb32b09c069",
+  "time" : {
+    "start" : 1643649629694,
+    "stop" : 1643649634554,
+    "duration" : 4860
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "doLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "REST Assured TestNG"
+  }, {
+    "name" : "suite",
+    "value" : "REST Assured TestNG"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N5HIU3E"
+  }, {
+    "name" : "thread",
+    "value" : "1612@DESKTOP-N5HIU3E.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2803551263452f0b.json",
+  "parameterValues" : [ ]
+}

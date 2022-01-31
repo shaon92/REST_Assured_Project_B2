@@ -1,0 +1,64 @@
+{
+  "uid" : "d4e63613cd77c52c",
+  "name" : "Generate Random Customer",
+  "fullName" : "TestRunner.generateCustomerInfo",
+  "historyId" : "a8029f757f726e701531c3c3eafb4859",
+  "time" : {
+    "start" : 1643649637589,
+    "stop" : 1643649638732,
+    "duration" : 1143
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "generateCustomerInfo"
+  }, {
+    "name" : "parentSuite",
+    "value" : "REST Assured TestNG"
+  }, {
+    "name" : "suite",
+    "value" : "REST Assured TestNG"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N5HIU3E"
+  }, {
+    "name" : "thread",
+    "value" : "1612@DESKTOP-N5HIU3E.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4e63613cd77c52c.json",
+  "parameterValues" : [ ]
+}

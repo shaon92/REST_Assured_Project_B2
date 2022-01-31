@@ -1,0 +1,64 @@
+{
+  "uid" : "53aa05d48f85db20",
+  "name" : "Search Customer",
+  "fullName" : "TestRunner.searchCustomer",
+  "historyId" : "d4aeff9403555815777c02f01f174be1",
+  "time" : {
+    "start" : 1643649636171,
+    "stop" : 1643649637584,
+    "duration" : 1413
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchCustomer"
+  }, {
+    "name" : "parentSuite",
+    "value" : "REST Assured TestNG"
+  }, {
+    "name" : "suite",
+    "value" : "REST Assured TestNG"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N5HIU3E"
+  }, {
+    "name" : "thread",
+    "value" : "1612@DESKTOP-N5HIU3E.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53aa05d48f85db20.json",
+  "parameterValues" : [ ]
+}

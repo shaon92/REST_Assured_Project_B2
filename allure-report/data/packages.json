@@ -1,0 +1,128 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestRunner",
+    "children" : [ {
+      "name" : "doLogin",
+      "uid" : "f251c45b24b8e7af",
+      "parentUid" : "9e7afdbe7e41b29ce0ab7e10c3b29b29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643649726649,
+        "stop" : 1643649733334,
+        "duration" : 6685
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "getCustomerList",
+      "uid" : "ae83b81b43fb86f0",
+      "parentUid" : "9e7afdbe7e41b29ce0ab7e10c3b29b29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643649733434,
+        "stop" : 1643649734962,
+        "duration" : 1528
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "searchCustomer",
+      "uid" : "e97e67bbfcc8b1c0",
+      "parentUid" : "9e7afdbe7e41b29ce0ab7e10c3b29b29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643649734972,
+        "stop" : 1643649736423,
+        "duration" : 1451
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "generateCustomerInfo",
+      "uid" : "7c122440710b09c",
+      "parentUid" : "9e7afdbe7e41b29ce0ab7e10c3b29b29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643649736428,
+        "stop" : 1643649737297,
+        "duration" : 869
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "createCustomer",
+      "uid" : "562bcb7b6348f3e8",
+      "parentUid" : "9e7afdbe7e41b29ce0ab7e10c3b29b29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643649737302,
+        "stop" : 1643649738663,
+        "duration" : 1361
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "updateCustomer",
+      "uid" : "797046419753daeb",
+      "parentUid" : "9e7afdbe7e41b29ce0ab7e10c3b29b29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643649738668,
+        "stop" : 1643649740037,
+        "duration" : 1369
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "deleteCustomer",
+      "uid" : "e0d3676357a62619",
+      "parentUid" : "9e7afdbe7e41b29ce0ab7e10c3b29b29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643649740042,
+        "stop" : 1643649741454,
+        "duration" : 1412
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9e7afdbe7e41b29ce0ab7e10c3b29b29"
+  } ]
+}
