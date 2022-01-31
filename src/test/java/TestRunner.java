@@ -23,4 +23,25 @@ public class TestRunner {
         customer = new Customer();
         customer.callingCustomerSearchAPI(102);
     }
+
+    @Test
+    public void generateCustomerInfo() throws ConfigurationException, IOException {
+        customer = new Customer();
+        customer.generateCustomer();
+    }
+    @Test
+    public void createCustomer() throws IOException {
+        customer = new Customer();
+        customer.callingCreateCustomerAPI();
+    }
+    @Test
+    public void updateCustomer() throws IOException {
+        customer = new Customer();
+        customer.callingUpdateCustomerAPI(102,"Md Shaon", "shaon@gmail.com","Dhaka","01680235344");
+    }
+    @Test
+    public void deleteCustomer() throws IOException {
+        customer = new Customer();
+        customer.callingCustomerDeleteAPI(52327);
+    }
 }
